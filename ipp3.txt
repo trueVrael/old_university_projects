@@ -1,0 +1,1 @@
+rozwiazanie znajduje sie w commicie bf3b226e640940260921cfe6a4b68494df6ded8e.Zaimplementowalem AI w wersji na maksymalnie 20 pkt. 

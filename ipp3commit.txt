@@ -1,0 +1,1 @@
+Finalna wersja mojego rozwazania czesci 3 sredniowiecza znajduje sie w repozytorium w commicie 5f91afe5c7cdf2c0a49c5a6a9eeb24733dd6b290.Zaimplementowalem AI w wersji na maksymalnie 20 pkt. 
